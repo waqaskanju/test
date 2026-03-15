@@ -7,5 +7,7 @@
 </head>
 <body>
   THis is my first index file.
+
+  <h1>I am woking with git and reset</h1>
 </body>
 </html>
